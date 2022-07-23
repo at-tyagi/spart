@@ -37,8 +37,9 @@ body {
 
 .right {
 	background-color: #d5ffa5;
-	float: left;
-	width: 15%;
+	float: right;
+	width: 20%;
+  height: 25%;
 	padding: 15px;
 	margin-top: 7px;
 	text-align: center;
@@ -117,3 +118,15 @@ body {
     background-position: 200% center;
   }
 }
+
+.video{
+float: center;
+margin-left: 24%;
+margin-right: 22.88%;
+display: block;
+box-shadow: 2px 2px 4px black;
+border-style: solid;
+border-width: 2px;
+border-color: black;
+}
+
